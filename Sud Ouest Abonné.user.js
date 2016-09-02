@@ -15,6 +15,7 @@ $(document).ready(function() {
    
         $(".short").toggle();
         $(".long").toggle();
+        $(".article-premium-locked").toggle();
 
    
 });
